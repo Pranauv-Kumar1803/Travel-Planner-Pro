@@ -34,13 +34,13 @@ live link -
 Clone the project
 
 ```bash
-  git clone https://github.com/Tapesh-Vashisth/FliprHackathon.git
+  git clone https://github.com/Pranauv-Kumar1803/Travel-Planner-Pro.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd FliprHackathon
+  cd Travel-Planner-Pro
 ```
 
 Install dependencies in both client and server folder
