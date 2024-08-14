@@ -8,7 +8,7 @@ The perfect website to plan your Travels!
 Made using ReactJS, Node.js and MongoDB with Typescript.
 Users have to create an account and login to access the places data and visualize them.
 
-live link - 
+live link - https://golden-zabaione-725504.netlify.app
 
 ## Project Contributors
 
